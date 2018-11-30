@@ -15,35 +15,34 @@ AR Textbooks will be written ViroMedia, allowing AR to be viewed with both Apple
 
 ## MVP goals:
 
-App will visually recognize markers on 2D printed materials
-App will render 3D AR multimedia objects in relation to 2D printed materials
-App will employ continuous image tracking
+* App will visually recognize markers on 2D printed materials
+* App will render 3D AR multimedia objects in relation to 2D printed materials
+* App will employ continuous image tracking
 
 
 ## Required Tools
 
-OSX computer or Linux computer
-iOS Device with A9 chip or higher
-React.js
-React Native
-Viro Media
-Homebrew
-Node
-Watchman
-REACT NATIVE COMMAND LINE INTERFACE
-VIROREACT COMMAND LINE INTERFACE
-VIRO MEDIA TESTBED APP
-Viro Media API
+* OSX computer or Linux computer
+* iOS Device with A9 chip or higher
+* React.js
+* React Native
+* Viro Media
+* Homebrew
+* Node
+* Watchman
+* Reacrt Native CLI
+* ViroReact CLI
+* Viro Media Testbed APP
+* Viro Media API
 
 ## Strech Goals
 
-App will respond to user touch
-App will employ anchor detection
-App will employ sounds, animations, and environment-responsive lighting
-App will be available to iOS and Android users
-
+* App will respond to user touch
+* App will employ anchor detection
+* App will employ sounds, animations, and environment-responsive lighting
+* App will be available to iOS and Android users
 
 ## MVP Tools
 
-ViroMedia
-Possbily Unity for 3D objects
+* ViroMedia
+* Possbily Unity for 3D objects

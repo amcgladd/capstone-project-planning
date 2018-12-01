@@ -1,3 +1,7 @@
+
+![progress pic](https://github.com/amcgladd/capstone-project-planning/blob/master/IMG_0003.PNG "Progress Pic")
+
+
 ## Project:
 AR Textbook (better name TBD)
 

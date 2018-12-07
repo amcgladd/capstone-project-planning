@@ -55,8 +55,8 @@ AR Textbooks will be written ViroMedia, allowing AR to be viewed with both Apple
 * <strike>Hello World rendered in AR</strike>
 * <strike>Place a textured Box into the world</strike>
 * <strike>Add a Smiley Emoji to the scene</strike>
-* Select an ARPlane
-* Add the emoji to the plane
+* <strike>Select an ARPlane</strike>
+* <strike>Add the emoji to the plane</strike>
 * Add a shadow to the emoji
 * Make the emoji draggable
 * Animate the box

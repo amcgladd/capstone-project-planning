@@ -60,3 +60,4 @@ AR Textbooks will be written ViroMedia, allowing AR to be viewed with both Apple
 * <strike>Add a shadow to the emoji</strike>
 * <strike>Make the emoji draggable</strike>
 * <strike>Animate the box</strike>
+* <strike>Chain multiple animations together</strike>

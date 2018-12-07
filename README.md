@@ -50,3 +50,10 @@ AR Textbooks will be written ViroMedia, allowing AR to be viewed with both Apple
 
 * ViroMedia
 * Possbily Unity for 3D objects
+
+## Action Plan
+* ~~Hello World rendered in AR ~~
+* Box grid rendered in AR
+* Emoji rendered in AR
+* Make plane selectable by user
+* Add animation to emoji

@@ -57,6 +57,6 @@ AR Textbooks will be written ViroMedia, allowing AR to be viewed with both Apple
 * <strike>Add a Smiley Emoji to the scene</strike>
 * <strike>Select an ARPlane</strike>
 * <strike>Add the emoji to the plane</strike>
-* Add a shadow to the emoji
-* Make the emoji draggable
-* Animate the box
+* <strike>Add a shadow to the emoji</strike>
+* <strike>Make the emoji draggable</strike>
+* <strike>Animate the box</strike>

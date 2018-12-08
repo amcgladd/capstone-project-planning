@@ -61,3 +61,11 @@ AR Textbooks will be written ViroMedia, allowing AR to be viewed with both Apple
 * <strike>Make the emoji draggable</strike>
 * <strike>Animate the box</strike>
 * <strike>Chain multiple animations together</strike>
+
+* Debug Tesla example (why aren’t the spheres rendering above the car?)
+* Apply Tesla example to a mockup textbook situation
+* make a boring text page e.g. Eiffel Tower
+* let it render a new 3d image above it
+* turn a general 3d file type into a vrx
+* add animations to it
+* then add interactivity like color change or something
